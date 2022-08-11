@@ -1,8 +1,8 @@
 # Hello there; welcome to my profile 👋🏾
 
-[Profile] (https://github.com/Nneka-Chukwuemeka), [LinkedIn](https://www.linkedin.com/in/chukwuemeka-nneka-uchechukwu-0ab8a0a9/), [Twitter][https://twitter.com/nne_codes]
+[Profile](https://github.com/Nneka-Chukwuemeka), [LinkedIn](https://www.linkedin.com/in/chukwuemeka-nneka-uchechukwu-0ab8a0a9/), [Twitter[https://twitter.com/nne_codes]
 
-I'm a Front-End Engineer, Mechanical Engineer, and Teacher who currently looking to contribute to different **open source project** and open to **front-end ** jobs as an intern. I love about sharing knowledge, teaching, impacting in people's life, web engineering, building responsive websites. I also teach Mathematics to pupils in primary school,  ready to build useful [open-source projects](https://github.com/Nneka-Chukwuemeka), open to attend conferences to meet new techies :laughing:.
+I'm a Front-End Engineer, Mechanical Engineer, and Teacher who currently looking to contribute to different **open source project** and open to **front-end** jobs as an intern. I love about sharing knowledge, teaching, impacting in people's life, web engineering, building responsive websites. I also teach Mathematics to pupils in primary school,  ready to build useful [open-source projects](https://github.com/Nneka-Chukwuemeka), open to attend conferences to meet new techies :laughing:.
 
 **Here's a quick summary about me**:
 
