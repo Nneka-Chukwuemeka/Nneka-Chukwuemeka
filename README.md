@@ -11,7 +11,7 @@ I'm a Front-End Engineer, Mechanical Engineer, and Teacher who currently looking
 - 🌱 I’m currently learning JavaScript, Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/10y2IY_HcqZcSExcbm-Z9rfgY1LWE4_vN/view?usp=drivesdk) and contact me by emailing mailto(nneka.uchechukwu.chukwuemeka@gmail.com).
+- 📫 You can [view my resume](https://drive.google.com/file/d/1AAhesvXDQjARbdMTMx95UHfyLk0sZibH/view?usp=sharing) and contact me by emailing mailto(nneka.uchechukwu.chukwuemeka@gmail.com).
 
 ---
 
